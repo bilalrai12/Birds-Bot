@@ -14,10 +14,10 @@
 pkg install python rust git -y
 ```
    ```bash
-   git clone https://github.com/Not-D4rkCipherX/Birds-BOT.git
+   git clone https://github.com/bilalrai12/Birds-Bot.git
    ```
    ```bash
-   cd Birds-BOT
+   cd Birds-Bot
    ```
 
 2. **Instal Requirements:**
